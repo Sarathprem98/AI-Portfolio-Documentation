@@ -31,27 +31,6 @@ https://sarathprem.vercel.app
 ```
 
 ---
-
-# 📸 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- About Section
-- Skills Logo Wall
-- Projects
-- AI Chatbot
-- Contact Section
-- Mobile View
-
-Example folder:
-
-```
-docs/images/
-```
-
----
-
 # 🛠 Tech Stack
 
 | Category | Technology |
@@ -88,7 +67,7 @@ package.json
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/Sarathprem98/Sarath-Portfolio.git
 ```
 
 Go to the project folder
