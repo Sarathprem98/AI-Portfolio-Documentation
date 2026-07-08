@@ -30,7 +30,7 @@ Simply clone the repository, replace the sample data with your own, configure yo
 Replace with your deployed website.
 
 ```
-https://your-domain.vercel.app
+https://sarathprem.vercel.app
 ```
 
 ---
