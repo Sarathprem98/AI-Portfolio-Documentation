@@ -67,7 +67,7 @@ package.json
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Sarathprem98/Sarath-Portfolio.git
+git clone https://github.com/Sarathprem98/AI-Portfolio-Documentation.git
 ```
 
 Go to the project folder
