@@ -26,9 +26,6 @@ Simply clone the repository, replace the sample data with your own, configure yo
 ---
 
 # 🖥 Live Demo
-
-Replace with your deployed website.
-
 ```
 https://sarathprem.vercel.app
 ```
